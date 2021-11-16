@@ -1,0 +1,4 @@
+/.vs/AzureTranscription/v17/*.suo
+/AzureTranscription/Properties/launchSettings.json
+/AzureTranscription/bin
+/AzureTranscription/obj
